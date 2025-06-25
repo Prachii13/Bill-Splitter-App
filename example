@@ -1,0 +1,5 @@
+Enter total bill amount (₹): 1200
+Enter number of people: 4
+Enter tip percentage (e.g., 10 for 10%): 10
+
+Each person should pay: ₹330.00
